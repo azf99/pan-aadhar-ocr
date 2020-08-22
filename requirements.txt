@@ -1,0 +1,13 @@
+opencv-python
+easydict
+flask
+face_recognition
+gunicorn
+tensorflow==1.15.0
+keras
+pytesseract
+dlib
+imutils
+PyYAML
+scikit-image==0.16.2
+scikit-learn

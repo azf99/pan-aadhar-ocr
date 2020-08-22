@@ -1,0 +1,27 @@
+##########################################################################
+
+######################## Raw Output #############################
+
+STTSEL THATS
+INCOME TAX DEPARTMENT
+GOVT. OF INDIA
+Sarat cal Gen are
+Permanent Account Number Card
+AXBPL1820D
+ara/ Name
+MOHD AZFAR ALAM LARI
+T7aT T -7Ta/ Fathers Name
+NAZAM SHAMSHAD LARI
+WH Ht aa / Date of Birth
+05/08/1999
+weata/ Signature
+
+
+######################## Cleaned Output #############################
+
+PAN No : AXBPL1820D
+Date Of Birth : 05/08/1999
+Name : MOHD AZFAR ALAM LARI
+Father's Name : NAZAM SHAMSHAD LARI
+##########################################################################
+
